@@ -2,8 +2,8 @@
 检测服务器硬件信息，包括cpu、内存、硬盘、显卡、网卡
 
 ## 使用说明
-1、chmod +x check_hardware.sh
-2、./check_hardware.sh
+- chmod +x check_hardware.sh
+- ./check_hardware.sh
 
 ## 输出信息
 ```
